@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+
+<body>
+  <h1>Kevin P. Heaney</h1>
+
+<ul>
+  <li><a href="https://twitter.com/kph3802">Twitter</a></li>
+  <li><a href="https://github.com/KPH3802">GitHub</a></li>
+  <li><a href="https://www.linkedin.com/in/kevin-heaney/">LinkedIn</a></li><br>
+</ul>
+</body>
+
+</html>
